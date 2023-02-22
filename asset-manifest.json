@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/oouazize/React-portfolio-website-1/static/css/main.ef580221.css",
+    "main.js": "/oouazize/React-portfolio-website-1/static/js/main.d205bbb7.js",
+    "static/media/cv.pdf": "/oouazize/React-portfolio-website-1/static/media/cv.1676dcdc83730930d888.pdf",
+    "static/media/me.png": "/oouazize/React-portfolio-website-1/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/oouazize/React-portfolio-website-1/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "index.html": "/oouazize/React-portfolio-website-1/index.html",
+    "main.ef580221.css.map": "/oouazize/React-portfolio-website-1/static/css/main.ef580221.css.map",
+    "main.d205bbb7.js.map": "/oouazize/React-portfolio-website-1/static/js/main.d205bbb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef580221.css",
+    "static/js/main.d205bbb7.js"
+  ]
+}
